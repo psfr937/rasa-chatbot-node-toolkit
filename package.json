@@ -212,7 +212,7 @@
     "sequelize": "^4.37.6",
     "serialize-javascript": "^1.4.0",
     "serve-favicon": "2.4.5",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "uuid": "^3.2.1",
     "wechat": "^2.1.0",
     "wechaty": "^0.22.6",
